@@ -1,0 +1,19 @@
+We use java --version command to check the version of java.
+
+In case of java:
+pip – platform independent portable
+
+In case of python:
+pip – python install package
+
+Java is platform independent which means it will run on any platform be it Windows, Linux, etc.
+
+Java is portable which means we use the same code on multiple platforms.
+
+JRE stands for Java Runtime Environment.
+
+EE stands for Enterprise Edition.
+
+SE stands for Standard Edition.
+
+JDK stands for Java Development Kit.
